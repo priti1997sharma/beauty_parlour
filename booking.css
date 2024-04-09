@@ -1,0 +1,132 @@
+.form1{
+    height: 400px;
+    width: 550px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1{
+    margin-left: 100px;
+
+
+}
+
+.input1{
+    margin-left: 40px;
+    height:30px ;
+    width:200px ;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: rgb(240, 238, 238);
+}
+
+
+
+
+
+.selectInput1{
+    margin-left: 40px;
+    height:40px ;
+    width:220px ;
+    border-radius: 10px;
+    padding-left: 10px;
+    background-color: rgb(240, 238, 238);
+
+}
+
+.b1{
+    height:50px ;
+    width: 480px;
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: aqua;
+}
+
+.form2{
+    height: 500px;
+    width: 750px;
+    margin-top: -500px;
+    padding-top: 50px;
+    padding-left: 50px;
+    float: right;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.input2n{
+    width: 620px;
+    height: 40px;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding-left: 20px;
+    background-color: rgb(240, 238, 238);
+
+}
+
+.select2{
+    
+    margin-left:20px ;
+
+
+}
+   
+
+
+.input2{
+    height:40px ;
+    width:250px ;
+    margin-left: 10px;
+    padding-left: 20px;
+    border-radius: 10px;
+    background-color: rgb(240, 238, 238);
+
+
+}
+
+.date1{
+    margin-left: 10px;
+}
+
+
+.input1{
+    margin-left: 40px;
+    height:40px ;
+    width:200px ;
+    padding-left: 10px;
+    
+}
+
+.input1n{
+    margin-left: 40px;
+    height:40px ;
+    width:460px ;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: rgb(240, 238, 238);
+
+}
+
+.email{
+    margin-left: 20px;
+}
+
+.selectInput{
+    height:40px ;
+    width:270px;
+    margin-left: 18px;
+    border-radius:10px ;
+    padding-left: 10px;
+    background-color: rgb(240, 238, 238);
+
+}
+
+.b2{
+
+    height:50px ;
+width:700px;
+margin-left: 5px;
+border-radius: 10px;
+background-color: aqua;
+    
+}
